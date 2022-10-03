@@ -2,4 +2,3 @@
 using TiposDeDatos;
 
 Console.WriteLine("");
-
